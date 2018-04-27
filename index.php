@@ -36,7 +36,7 @@
           <li class="active"><a href="connexion-site.php"></a></li>
         <li><a href="affichage-videos.php">Videos</a></li>
          <li><a href="avis-des-internautes.php"> Vos avis</a></li>
-  
+         <li> <a href="administrateur.php"> Administrateur</a></li>
         
       </ul>
     </div><!-- /.navbar-collapse -->
@@ -57,7 +57,7 @@
         <div class="caraous-title">
             <div class="col-md-12">
                 <div class="col-md-6">
-                    <span>`yournnuuuuuuuuuuz</span>
+                    <span></span>
                     <h1>Small Effort <br> Make Big Change </h1>
                     <h3></h3>
                     <a class="btn btn-lg btn-primary site-btn" href="#">Learn More</a>
